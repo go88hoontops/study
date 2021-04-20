@@ -7,7 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-처음?	(branch name - main)
-두ㅡ번째 인뎁셩 ( branch name - jeonghoon lee)
+
+branch jeonghoon lee 
+this is going to github repo!
+JJASS!
+
 </body>
 </html>
