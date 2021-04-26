@@ -1,0 +1,149 @@
+html{
+	font-size: 20px;
+}
+body{
+	font-size: 1rem;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.visual {
+	position: relative;
+	height: 32.3rem;
+	background: url(https://image.istarbucks.co.kr/upload/common/img/main/2021/2021_summer1_bg.jpg) no-repeat center top;
+}
+.visual > div { 
+	position : absolute;
+
+}
+.visual > div.img3{
+	top:2.9rem;
+	left:53.2%;
+}
+.visual > div.img1{
+	top:2.9rem;
+	left:13.7%;
+}
+.visual > div.img1 img{
+	display:block;
+}
+.visual > div.img1 > a{
+	display:inline-block;
+	border:  2px solid #2c2a29;
+	text-align: center; 
+	line-height: 1.6rem;
+	border-radius: 4px;
+	font-size: 13px;
+	color:#2c2a29;
+	width: 6.25rem;
+	margin-top:1.5rem;
+}
+.visual > div.img4{
+	top:13.1rem;
+	left:67.7%;
+} 
+.visual > div.img2{
+	top:12.5rem;
+	left:38.2%;
+} 
+.visual > div.img_text1{
+	top:8.0rem;
+	left:38.2%;
+}
+.visual > div.img_text2{
+	top:26.2rem;
+	left:50.9%;
+}
+.visual > div.img_text3{
+	top:8.0rem;
+	left:68.2%;
+}
+.visual > div.img5{
+	top:1.7rem;
+	left:83.2%;
+	position:fixed;
+	margin-top:6rem;
+}
+
+.notice_container {
+	height:3rem;
+}
+.notice_left {
+	height:3rem;
+	background: #111;
+	width:55%;
+	float:left;
+	color: rgb(255, 255, 255);
+}
+.notice_left_btn {
+	width:70%;
+	float:left;
+    margin-left: 40px;
+    margin-top: 15px;
+	
+}
+.notice_left_btn > ul{
+	margin: 0;
+}
+.notice_right {
+	height:3rem;
+	background: #f6f5ef;
+	width:45%;
+	float:left;
+}
+
+.notice_left_btn li:last-child a:before{
+	content:"\e913";
+	font-family:'xeicon';
+	font-size: 1.2rem;
+	color: #f6f5ef;
+}
+main > div .notice_left ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+    color: #f6f5ef;
+}
+main > div .notice_left li a {
+    color: #f6f5ef;
+}
+
+main > div .notice_left li {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    border : 0;
+    float: left;
+}
+.notice_right_btn{
+	text-align: center;
+}
+
+.rewards > div .rewards_inner {
+	position: relative;
+	width:54.5rem; 
+	margin: 0 auto;
+}
+.rewards{
+	padding-top:1.5rem;
+	padding-bottom:2rem;
+	background: #1e3932;
+	height :237.8px;
+}
+.rewards img{
+	float: left;
+    width: 16.3%;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    text-align: center;
+}
+
+
+
+
+

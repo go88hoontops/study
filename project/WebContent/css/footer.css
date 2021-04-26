@@ -1,0 +1,28 @@
+html {
+	margin:0;
+	font-size: 20px;
+}
+body{
+	font-size: 1rem;
+	margin:0;
+}
+ul{
+    list-style: none;
+}
+a{                
+    text-decoration: none;
+}
+footer {
+	background: #2c2a29;
+	height: 27.7rem;	
+}
+footer > div.footer_wrap{	
+	text-align: center;
+	width: 30rem;
+	margin: 0 auto;
+	height: 12.4rem;
+}
+footer > div > ul > li a{
+	color: #fcfafa;
+	
+}
